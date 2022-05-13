@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ncbieewv-kotlin-basic-task2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ncbieewv-kotlin-classes-task3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ncbieewv-kotlin-functions-task5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ncbieewv-kotlin-generics-task6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ncbieewv-kotlin-introduction-task1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ncbieewv-kotlin-multi-threading-advanced-task8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ncbieewv-kotlin-multi-threading-intro-task7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ncbieewv-kotlin-static-delegation-task4" vcs="Git" />
+  </component>
+</project>
